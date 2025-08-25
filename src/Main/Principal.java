@@ -15,6 +15,9 @@ public class Principal {
         String marcaMedi;
         float precioMedi;
         boolean recetaMedi;
+        
+        //SE AGREGA ESTE CODIGO
+        System.out.println("hola");
 
         Medicamentos medicamento = null;
 
